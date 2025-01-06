@@ -2,6 +2,8 @@
 A PayPal Gift Card is a prepaid card that allows the recipient to use its balance for purchases or transfers through PayPal's platform. Here's an overview of its key features and usage:
 How it Works:
 
+<h2><a href="https://claimresources.xyz/giftcard.html/">LEARN MORE</a></h2>
+
     Purchase:
         You can buy PayPal Gift Cards online from authorized sellers or retailers.
         It comes with a specific value (e.g., $25, $50, $100) that you pre-load when purchasing.
