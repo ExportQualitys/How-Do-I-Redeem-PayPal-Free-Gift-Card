@@ -10,6 +10,8 @@ How it Works:
         The recipient redeems the card by adding the value to their PayPal account.
         To redeem, log in to PayPal and enter the unique code provided with the gift card.
 
+        <h2><a href="https://claimresources.xyz/giftcard.html/">LEARN MORE</a></h2>
+
     Use:
         Once redeemed, the balance can be used for:
             Shopping at online stores that accept PayPal.
